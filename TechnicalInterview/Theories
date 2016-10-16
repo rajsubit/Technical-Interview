@@ -30,3 +30,21 @@ Linked Lists
 
 Double Linked Lists:
 - similar to the Linked List but stores both previous and next element address in each element
+
+
+Binary Search:
+search by dividing the array in half
+
+Recursive Function:
+Base Case :- Exit Condition
+Recursion :- Calling the self function
+
+Bubble Sort:
+- Iterate thorugh the array and switch consecutive elements for sorting
+
+Merge Sort:
+- Divide the array into multile arrays with merge these arrays step by step by sorting each one
+
+Quick Sort:
+- Select a pivot value
+- move values less than pivot to left and greater than pivot to right
