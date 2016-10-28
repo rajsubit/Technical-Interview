@@ -6,6 +6,8 @@
 - roughly equals no. of lines of code.
 - equals no of times loops run.
 
+- **Cheat shit**:- [http://bigocheatsheet.com/](http://bigocheatsheet.com/)
+
 - **General Representations:**
 O(1) ~ O(5) ~ O(10)
 O(n) ~ O(5n) ~ O(10n + 10)
