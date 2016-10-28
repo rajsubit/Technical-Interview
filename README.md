@@ -6,7 +6,7 @@
 - roughly equals no. of lines of code.
 - equals no of times loops run.
 
-**General Representations:**
+- **General Representations:**
 O(1) ~ O(5) ~ O(10)
 O(n) ~ O(5n) ~ O(10n + 10)
 O(n^2) ~ O(4n^2 + 7)
@@ -34,11 +34,11 @@ O(n^2) ~ O(4n^2 + 7)
 - similar to the Linked List but stores both previous and next element address in each element
 
 **Binary Search:**
-search by dividing the array in half
+- search by dividing the array in half
 
 **Recursive Function:**
-Base Case :- Exit Condition
-Recursion :- Calling the self function
+- Base Case :- Exit Condition
+- Recursion :- Calling the self function
 
 **Bubble Sort:**
 - Iterate thorugh the array and switch consecutive elements for sorting
@@ -58,3 +58,10 @@ Recursion :- Calling the self function
 **Heaps:**
 - Special Trees where parent is always either smaller or larger than the children
 - Max heap if parent is larger and Min heap if parent is smaller than the children
+
+**Red Black Trees:**
+- Special Type of Balanced BST where nodes are colored either RED or BLACK
+- Every null leaf nodes must be colored Black
+- A Red node has both Black children nodes
+- Root node must be Black
+- Every path from a node to its descendent null node must contain same number of black nodes
